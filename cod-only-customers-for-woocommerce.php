@@ -2,7 +2,7 @@
 /**
  * Plugin Name: COD Only Customers for WooCommerce
  * Description: Limit selected WooCommerce customers to cash on delivery and display a custom checkout notice.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Requires at least: 6.5
  * Requires PHP: 7.4
  * Author: Ben Dishler, CBT Hospitality Supplies

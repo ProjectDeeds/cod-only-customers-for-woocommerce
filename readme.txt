@@ -3,9 +3,10 @@ Contributors: Ben Dishler, CBT Hospitality Supplies
 Author URI: https://bendishler.com
 Tags: woocommerce, cash on delivery, checkout, payment restrictions
 Requires at least: 6.5
+Tested up to: 7.1.2
 Requires PHP: 7.4
 Requires Plugins: woocommerce
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +42,9 @@ Yes. Save an empty notice.
 Deactivation preserves the customer list and notice, but switches COD restrictions off. Customers regain their normally available payment methods. Reactivation leaves restrictions paused until you enable them again. Deleting the plugin removes its two options on the current site.
 
 == Changelog ==
+
+= 1.0.3 =
+* Tested working up to 7.1.2
 
 = 1.0.2 =
 Pause restrictions on deactivation while preserving the customer list and notice.

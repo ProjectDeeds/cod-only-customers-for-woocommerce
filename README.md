@@ -1,4 +1,7 @@
 # COD Only Customers for WooCommerce
+Version: 1.0.4  
+Tested up to: WordPress 7.1.3
+
 
 Limits selected logged-in WordPress users to WooCommerce's cash on delivery (`cod`) gateway and displays an editable notice at the top of checkout using `wc_print_notice()`.
 

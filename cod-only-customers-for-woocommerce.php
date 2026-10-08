@@ -7,6 +7,7 @@
  * Requires PHP: 7.4
  * Author: Ben Dishler, CBT Hospitality Supplies
  * Author URI: https://bendishler.com
+ * GitHub Plugin URI: https://github.com/ProjectDeeds/cod-only-customers-for-woocommerce
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: cod-only-customers-for-woocommerce
